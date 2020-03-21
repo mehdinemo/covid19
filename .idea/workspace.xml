@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5801c40f-7e65-4482-b579-7a8b756622af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLP5rkhQlx9uRrM4hPPeH2kGvZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test_mn">
+    <configuration name="test_mn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_mn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_covid19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\git\python\covid\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_covid19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_mn" />
+        <item itemvalue="Python.train_covid19" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5801c40f-7e65-4482-b579-7a8b756622af" name="Default Changelist" comment="" />
+      <created>1584615221045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584615221045</updated>
+      <workItem from="1584615225410" duration="10403000" />
+      <workItem from="1584719608692" duration="599000" />
+      <workItem from="1584776724007" duration="9000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584636434164">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="94" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.728@0.0.1280.728" timestamp="1584636434164" />
+    <state width="1237" height="247" key="GridCell.Tab.0.bottom" timestamp="1584822283309">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="247" key="GridCell.Tab.0.bottom/0.0.1280.728@0.0.1280.728" timestamp="1584822283309" />
+    <state width="1237" height="247" key="GridCell.Tab.0.center" timestamp="1584822283309">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="247" key="GridCell.Tab.0.center/0.0.1280.728@0.0.1280.728" timestamp="1584822283309" />
+    <state width="1237" height="247" key="GridCell.Tab.0.left" timestamp="1584822283309">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="247" key="GridCell.Tab.0.left/0.0.1280.728@0.0.1280.728" timestamp="1584822283309" />
+    <state width="1237" height="247" key="GridCell.Tab.0.right" timestamp="1584822283309">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="247" key="GridCell.Tab.0.right/0.0.1280.728@0.0.1280.728" timestamp="1584822283309" />
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom" timestamp="1584812559925">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.bottom/0.0.1280.728@0.0.1280.728" timestamp="1584812559925" />
+    <state width="1237" height="249" key="GridCell.Tab.1.center" timestamp="1584812559925">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.center/0.0.1280.728@0.0.1280.728" timestamp="1584812559925" />
+    <state width="1237" height="249" key="GridCell.Tab.1.left" timestamp="1584812559924">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.left/0.0.1280.728@0.0.1280.728" timestamp="1584812559924" />
+    <state width="1237" height="249" key="GridCell.Tab.1.right" timestamp="1584812559925">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="249" key="GridCell.Tab.1.right/0.0.1280.728@0.0.1280.728" timestamp="1584812559925" />
+    <state x="141" y="7" key="SettingsEditor" timestamp="1584636749437">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="141" y="7" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1584636749437" />
+    <state width="648" height="372" key="XDebugger.FullValuePopup" timestamp="1584812464243">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="648" height="372" key="XDebugger.FullValuePopup/0.0.1280.728@0.0.1280.728" timestamp="1584812464243" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_covid19.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_covid19.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_mn.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_mn.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_mn.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/covid$train_covid19.coverage" NAME="train_covid19 Coverage Results" MODIFIED="1584813051662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/covid$test_mn.coverage" NAME="test_mn Coverage Results" MODIFIED="1584813676414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
